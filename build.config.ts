@@ -43,7 +43,9 @@ export default defineBuildConfig([
         name: "RPC", // 全局变量名（浏览器端通过此名称访问）
         banner: `
 // ==UserScript==
+// @name         jsrpc 配合 scrapy 爬取数据
 // @namespace    http://tampermonkey.net/
+// @updateURL    https://cdn.jsdelivr.net/gh/amyyxypussy/rpc-client/dist/shell.mjs
 // @version      ${version}
 // @description  site.zxhy
 // @author       ashen
