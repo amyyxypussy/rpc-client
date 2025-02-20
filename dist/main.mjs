@@ -1,6 +1,6 @@
 (function () {
 	'use strict';
 
-	console.log(666);
+	console.log(666999922222);
 
 })();
