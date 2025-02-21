@@ -3,7 +3,7 @@
 // @name         jsrpc 配合 scrapy 爬取数据
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://cdn.jsdelivr.net/gh/amyyxypussy/rpc-client/dist/shell.mjs
-// @version      0.0.2-test
+// @version      1.0.0
 // @description  site.zxhy
 // @author       ashen
 // @require      https://cdn.jsdelivr.net/gh/amyyxypussy/rpc-client/dist/main.mjs
